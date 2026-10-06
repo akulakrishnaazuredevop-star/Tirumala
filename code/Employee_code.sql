@@ -1,5 +1,5 @@
 -- Creating database in snowflake
-CREATE database Tulasi;
+CREATE database tulasi;
 --after database creation we can use that database to create schrma and tables inside
 USe Database tulasi;
 --creating new schema
